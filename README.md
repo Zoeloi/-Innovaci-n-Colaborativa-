@@ -1,1 +1,2 @@
 # -Innovaci-n-Colaborativa-
+El proyecto "Innovación Colaborativa" de la Universidad Tecnológica "Nuevo Horizonte" se enfrenta al desafío de establecer un ecosistema de trabajo digital, 100% remoto, eficiente, seguro y legalmente responsable para un equipo multidisciplinario de 6 personas (coordinador, diseñador instruccional, editor de contenido, programador web, especialista multimedia y revisor). Este equipo es el encargado de la creación de materiales educativos digitales.
